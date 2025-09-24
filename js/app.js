@@ -68,6 +68,8 @@ function initEventListeners() {
     document.getElementById('languageFilter').addEventListener('change', searchPhrases);
     document.getElementById('semanticFilter').addEventListener('change', searchPhrases);
     document.getElementById('styleFilter').addEventListener('change', searchPhrases);
+    document.getElementById('originFilter').addEventListener('change', searchPhrases);
+    document.getElementById('orFilter').addEventListener('change', searchPhrases);
     
     document.getElementById('searchInput').addEventListener('input', searchPhrases);
     document.getElementById('searchInput').addEventListener('keypress', function(e) {
@@ -85,8 +87,10 @@ function searchPhrases() {
     const languageFilter = document.getElementById('languageFilter').value;
     const semanticFilter = document.getElementById('semanticFilter').value;
     const styleFilter = document.getElementById('styleFilter').value;
+    const originFilter = document.getElementById('originFilter').value;
+    const orFilter = document.getElementById('orFilter').value;
     
-    console.log("Поиск:", { searchText, languageFilter, semanticFilter, styleFilter });
+    console.log("Поиск:", { searchText, languageFilter, semanticFilter, styleFilter, originFilter, orFilter});
     
     filteredPhrases = allPhrases.filter(phrase => {
         // Поиск по тексту
@@ -97,7 +101,9 @@ function searchPhrases() {
                 (phrase.displayTranslation && phrase.displayTranslation.toLowerCase().includes(searchText)) ||
                 (phrase.commentary && phrase.commentary.toLowerCase().includes(searchText)) ||
                 (phrase.semantic_label && phrase.semantic_label.toLowerCase().includes(searchText)) ||
-                (phrase.stylistic_label && phrase.stylistic_label.toLowerCase().includes(searchText))
+                (phrase.stylistic_label && phrase.stylistic_label.toLowerCase().includes(searchText)) ||
+                (phrase.origin_label && phrase.origin_label.toLowerCase().includes(searchText)) ||
+                (phrase.or_label && phrase.or_label.includes(searchText))
             );
         }
         
@@ -111,8 +117,16 @@ function searchPhrases() {
         // Фильтр по стилю
         const matchesStyle = styleFilter === 'all' || 
             (phrase.stylistic_label && phrase.stylistic_label.includes(styleFilter));
+
+        // Фильтр по происхождению
+        const matchesOrigin = originFilter === 'all' || 
+            (phrase.origin_label && phrase.origin_label.includes(originFilter));
+
+        // Фильтр по исконности
+        const matchesOr = orFilter === 'all' || 
+            (phrase.or_label && phrase.or_label.includes(orFilter));
         
-        return matchesSearch && matchesLanguage && matchesSemantic && matchesStyle;
+        return matchesSearch && matchesLanguage && matchesSemantic && matchesStyle && matchesOrigin && matchesOr;
     });
     
     console.log("Найдено результатов:", filteredPhrases.length);
@@ -160,6 +174,12 @@ function displayPhrases() {
                         <span class="detail-label">Происхождение:</span>
                         ${escapeHtml(phrase.origin_label || '—')}
                     </div>
+                    
+                    <div class="detail-item">
+                        <span class="detail-label">Исконное/неисконное:</span>
+                        ${escapeHtml(phrase.or_label || '—')}
+                    </div>
+
                 </div>
                 
                 ${phrase.commentary ? `

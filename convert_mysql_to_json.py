@@ -9,7 +9,7 @@ def convert_mysql_to_json():
         'password': 'root',
         'host': 'localhost',
         'database': 'death_phrases_corpus',
-        'charset': 'utf8_general_ci'
+        'charset': 'utf8'
     }
     
     try:
@@ -36,6 +36,7 @@ def convert_mysql_to_json():
                 'semantic_label': row['semantic_label'] or '',
                 'stylistic_label': row['stylistic_label'] or '',
                 'origin_label': row['origin_label'] or '',
+                'or_label': row['or_label'] or '',
                 'context_fi': row['context_fi'] or '',
                 'context_ru': row['context_ru'] or '',
                 'commentary': row['commentary'] or ''
@@ -56,6 +57,7 @@ def convert_mysql_to_json():
                 'semantic_label': row['semantic_label'] or '',
                 'stylistic_label': row['stylistic_label'] or '',
                 'origin_label': row['origin_label'] or '',
+                'or_label': row['or_label'] or '',
                 'context_ru': row['context_ru'] or '',
                 'context_fi': row['context_fi'] or '',
                 'commentary': row['commentary'] or ''
