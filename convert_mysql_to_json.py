@@ -9,7 +9,7 @@ def convert_mysql_to_json():
         'password': 'root',
         'host': 'localhost',
         'database': 'death_phrases_corpus',
-        'charset': 'utf8_general_ci'
+        'charset': 'utf8'
     }
     
     try:
@@ -29,13 +29,14 @@ def convert_mysql_to_json():
             # Приводим данные к правильному формату
             phrase = {
                 'id': row['id'],
-                'phrase_fi': row['phrase_fi'] or '',
-                'literal_translation_ru': row['literal_translation_ru'] or '',
-                'meaning_fi': row['meaning_fi'] or 'kuolla',
-                'meaning_ru': row['meaning_ru'] or 'умереть',
+                'phrase_fi': row['phrase_fi'].capitalize() or '',
+                'literal_translation_ru': row['literal_translation_ru'].capitalize() or '',
+                'meaning_fi': row['meaning_fi'] or 'Kuolla'.capitalize(),
+                'meaning_ru': row['meaning_ru'] or 'Умереть'.capitalize(),
                 'semantic_label': row['semantic_label'] or '',
                 'stylistic_label': row['stylistic_label'] or '',
                 'origin_label': row['origin_label'] or '',
+                'or_label': row['or_label'] or '',
                 'context_fi': row['context_fi'] or '',
                 'context_ru': row['context_ru'] or '',
                 'commentary': row['commentary'] or ''
@@ -49,19 +50,19 @@ def convert_mysql_to_json():
         for row in cursor.fetchall():
             phrase = {
                 'id': row['id'],
-                'phrase_ru': row['phrase_ru'] or '',
-                'literal_translation_fi': row['literal_translation_fi'] or '',
-                'meaning_ru': row['meaning_ru'] or 'умереть',
-                'meaning_fi': row['meaning_fi'] or 'kuolla',
+                'phrase_ru': row['phrase_ru'].capitalize() or '',
+                'literal_translation_fi': row['literal_translation_fi'].capitalize() or '',
+                'meaning_ru': row['meaning_ru'] or 'Умереть'.capitalize(),
+                'meaning_fi': row['meaning_fi'] or 'Kuolla'.capitalize(),
                 'semantic_label': row['semantic_label'] or '',
                 'stylistic_label': row['stylistic_label'] or '',
                 'origin_label': row['origin_label'] or '',
+                'or_label': row['or_label'] or '',
                 'context_ru': row['context_ru'] or '',
                 'context_fi': row['context_fi'] or '',
                 'commentary': row['commentary'] or ''
             }
             russian_phrases.append(phrase)
-        
         # Сохраняем в JSON с правильной кодировкой
         with open('data/finnish_phrases.json', 'w', encoding='utf-8') as f:
             json.dump(finnish_phrases, f, ensure_ascii=False, indent=2)

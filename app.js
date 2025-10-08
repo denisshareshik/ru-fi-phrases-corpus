@@ -199,6 +199,10 @@ function displayPhrases(searchText) {
                         ${highlightedOrigin || '—'}
                     </div>
 
+                    <div class="detail-item">
+                        <span class="detail-label">Исконное/неисконное:</span>
+                        ${escapeHtml(phrase.or_label || '—')}
+                    </div>
                 </div>
                 
                 ${phrase.commentary ? `
