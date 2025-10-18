@@ -9,7 +9,6 @@ document.addEventListener('DOMContentLoaded', function() {
     loadData();
 });
 
-
 // Загрузка JSON данных
 async function loadData() {
     try {
@@ -105,7 +104,7 @@ function searchPhrases() {
     const semanticFilter = document.getElementById('semanticFilter').value;
     const styleFilter = document.getElementById('styleFilter').value;
     const originFilter = document.getElementById('originFilter').value;
-    const orFilter = document.getElementById('orFilter').value & document.getElementById('originFilter').value;
+    const orFilter = document.getElementById('orFilter').value;
     
     console.log("Поиск:", { searchText, languageFilter, semanticFilter, styleFilter });
     currentSearchText = searchText;
@@ -194,7 +193,16 @@ function displayPhrases(searchText) {
                         <span class="detail-label">Стилистика:</span>
                         ${highlightedStyle || '—'}
                     </div>
+                    
+                    <div class="detail-item">
+                        <span class="detail-label">Происхождение:</span>
+                        ${highlightedOrigin || '—'}
+                    </div>
 
+                    <div class="detail-item">
+                        <span class="detail-label">Исконное/неисконное:</span>
+                        ${escapeHtml(phrase.or_label || '—')}
+                    </div>
                 </div>
                 
                 ${phrase.commentary ? `
@@ -207,7 +215,7 @@ function displayPhrases(searchText) {
                     <div class="origin-label">
                         <strong>Происхождение:</strong> 
                         <span class="origin-${phrase.or_label === 'исконное' ? 'native' : 'borrowed'}">
-                            ${phrase.or_label + '; ' + phrase.origin_label}
+                            ${phrase.or_label & phrase.origin_label}
                         </span>
                     </div>
                 ` : ''}

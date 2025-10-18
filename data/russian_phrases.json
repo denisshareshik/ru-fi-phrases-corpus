@@ -21,8 +21,7 @@
     "meaning_fi": "Kuolla",
     "semantic_label": "вечный покой, переход в локус",
     "stylistic_label": "поэтичный, книжный",
-    "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "метафора, исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Исконная русская метафора сна."
@@ -847,8 +846,8 @@
     "meaning_fi": "Kuolla",
     "semantic_label": "приход к богу",
     "stylistic_label": "книжный, высокий",
-    "origin_label": "религиозное",
-    "or_label": "Заимствованное",
+    "origin_label": "",
+    "or_label": "Заимствованное, религиозное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Религиозный эвфемизм. Христианское заимствование."

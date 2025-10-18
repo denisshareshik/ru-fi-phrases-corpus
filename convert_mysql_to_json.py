@@ -35,7 +35,7 @@ def convert_mysql_to_json():
                 'meaning_ru': row['meaning_ru'] or 'Умереть'.capitalize(),
                 'semantic_label': row['semantic_label'] or '',
                 'stylistic_label': row['stylistic_label'] or '',
-                'origin_label': row['origin_label'] or '',
+                'origin_label': row['origin_label'].capitalize() or '',
                 'or_label': row['or_label'] or '',
                 'context_fi': row['context_fi'] or '',
                 'context_ru': row['context_ru'] or '',
