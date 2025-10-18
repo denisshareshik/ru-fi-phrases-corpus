@@ -8,7 +8,7 @@
     "semantic_label": "приход к богу",
     "stylistic_label": "книжный, высокий",
     "origin_label": "религиозное",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Религиозный эвфемизм. Христианское заимствование."
@@ -21,7 +21,8 @@
     "meaning_fi": "Kuolla",
     "semantic_label": "вечный покой, переход в локус",
     "stylistic_label": "поэтичный, книжный",
-    "or_label": "метафора, исконное",
+    "origin_label": "метафора",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Исконная русская метафора сна."
@@ -35,7 +36,7 @@
     "semantic_label": "переход в локус (могила)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, иронично. Исконная русская пространственная метафора."
@@ -49,7 +50,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (совет.)",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, исторический оттенок. Исконное советское образование."
@@ -63,7 +64,7 @@
     "semantic_label": "физиологический конец (похороны)",
     "stylistic_label": "разговорный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм/дисфемизм. Исконная русская похоронная метафора."
@@ -77,7 +78,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Философский эвфемизм. Исконная русская концепция границы."
@@ -91,7 +92,7 @@
     "semantic_label": "физиологический конец (похороны)",
     "stylistic_label": "разговорный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Указание на результат - похороны. Исконная русская практика."
@@ -105,7 +106,7 @@
     "semantic_label": "переход в локус (Вальхалла)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (миф.)",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к скандинавской мифологии. Заимствование."
@@ -119,7 +120,7 @@
     "semantic_label": "приход к богу",
     "stylistic_label": "книжный, высокий",
     "origin_label": "религиозное (правосл.)",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Религиозный эвфемизм. Христианское заимствование."
@@ -133,7 +134,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, грубый",
     "origin_label": "жаргон/сленг (этимология неясна)",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Классический русский дисфемизм. Исконное русское выражение."
@@ -147,7 +148,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, грубый",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Грубый дисфемизм. Исконная русская просторечная метафора."
@@ -161,7 +162,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Краткий эвфемизм/констатация. Исконная русская формула."
@@ -175,7 +176,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Указание на результат, дисфемизм. Исконная русская метафора."
@@ -189,7 +190,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "книжный, поэтичный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Исконная русская метафора молчания."
@@ -203,7 +204,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "нейтральный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральный эвфемизм. Исконное русское выражение."
@@ -217,7 +218,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм, основанный на действии после смерти. Исконное."
@@ -231,7 +232,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральный эвфемизм, может использоваться в литературе. Исконное."
@@ -245,7 +246,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "книжный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Исконная русская временная концепция."
@@ -259,7 +260,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (фольклор)",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к славянскому божеству смерти. Исконное славянское."
@@ -273,7 +274,7 @@
     "semantic_label": "физиологический конец (насильственный)",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Часто о смерти в бою. Исконная русская военная метафора."
@@ -287,7 +288,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (эвфемизм имени)",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм. Исконное русское просторечное выражение."
@@ -301,7 +302,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "книжный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Формальный эвфемизм. Исконная русская книжная формула."
@@ -315,7 +316,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "разговорный",
     "origin_label": "метафора",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм. Вероятно, заимствование западноевропейской метафоры."
@@ -329,7 +330,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленg (ист.)",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к лаптям как к обуви крестьян. Исконное русское."
@@ -343,7 +344,7 @@
     "semantic_label": "переход в локус (могила)",
     "stylistic_label": "разговорный",
     "origin_label": "религиозное",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм, связанный с похоронным обрядом. Христианское влияние."
@@ -357,7 +358,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральная констатация. Исконная русская практика."
@@ -371,7 +372,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральный эвфемизм. Исконная русская метафора."
@@ -385,7 +386,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральный эвфемизм. Исконное русское выражение."
@@ -399,7 +400,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "поэтичный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Исконная русская природная метафора."
@@ -413,7 +414,7 @@
     "semantic_label": "переход в локус (мавзолей)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (совет.)",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к Ленину. Исконное советское образование."
@@ -427,7 +428,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (фольклор)",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к лешему. Исконное славянское."
@@ -441,7 +442,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Формальный эвфемизм. Исконная русская книжная формула."
@@ -455,7 +456,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральная констатация. Исконное русское выражение."
@@ -469,7 +470,7 @@
     "semantic_label": "физиологический конец (насильственный)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, о самоубийстве через повешение. Исконное русское."
@@ -483,7 +484,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Указание на предсмертное состояние. Исконная русская формула."
@@ -497,7 +498,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, намек на гроб. Исконное русское тюремное арго."
@@ -511,7 +512,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, намек на гроб. Исконное русское образование."
@@ -525,7 +526,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, намек на гроб. Исконное русское выражение."
@@ -539,7 +540,7 @@
     "semantic_label": "физиологический конец (насильственный)",
     "stylistic_label": "разговорный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, о внезапной смерти от напряжения. Исконная русская метафора."
@@ -553,7 +554,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "нейтральный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм. Исконная русская метафора пути."
@@ -567,7 +568,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм. Исконное русское выражение."
@@ -581,7 +582,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "нейтральный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм. Исконная русская метафора."
@@ -595,7 +596,7 @@
     "semantic_label": "физиологический конец (насильственный)",
     "stylistic_label": "нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм, часто о насильственной смерти. Исконное русское."
@@ -609,7 +610,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм. Исконная русская формула."
@@ -623,7 +624,7 @@
     "semantic_label": "физиологический конец (насильственный)",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм для самоубийства. Исконное русское выражение."
@@ -637,7 +638,7 @@
     "semantic_label": "переход в локус (призрак)",
     "stylistic_label": "разговорный, шутливый",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Шутливый эвфемизм. Исконная русская шутливая метафора."
@@ -651,7 +652,7 @@
     "semantic_label": "вечный покой",
     "stylistic_label": "нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм. Исконная русская метафора сна."
@@ -665,7 +666,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, грубый",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм. Исконное русское просторечное выражение."
@@ -679,7 +680,7 @@
     "semantic_label": "переход в локус (Вальхалла)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (миф.)",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к скандинавской мифологии. Заимствование."
@@ -693,7 +694,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (совет.)",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к советским лидерам. Исконное советское."
@@ -707,7 +708,7 @@
     "semantic_label": "переход в локус (ад)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (лит.)",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к Мефистофелю. Литературное заимствование."
@@ -721,7 +722,7 @@
     "semantic_label": "физиологический конец (казнь)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (ист.)",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к казни через отсечение головы. Исконное русское историческое."
@@ -735,7 +736,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "книжный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Формальный эвфемизм. Исконная русская книжная формула."
@@ -749,7 +750,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "книжный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Устаревший эвфемизм. Исконное древнерусское выражение."
@@ -763,7 +764,7 @@
     "semantic_label": "физиологический конец (насильственный)",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм для самоубийства. Исконная русская метафора."
@@ -777,7 +778,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "поэтичный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Исконная русская временная метафора."
@@ -791,7 +792,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм. Исконное русское выражение."
@@ -805,7 +806,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, грубый, жаргон",
     "origin_label": "жаргон/сленg",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Грубый дисфемизм. Исконное русское просторечие."
@@ -819,7 +820,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, грубый",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Грубый дисфемизм. Исконное русское выражение."
@@ -833,7 +834,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (ист.)",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к старинному шлему (бацинет). Заимствование."
@@ -846,8 +847,8 @@
     "meaning_fi": "Kuolla",
     "semantic_label": "приход к богу",
     "stylistic_label": "книжный, высокий",
-    "origin_label": "",
-    "or_label": "Заимствованное, религиозное",
+    "origin_label": "религиозное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Религиозный эвфемизм. Христианское заимствование."
@@ -861,7 +862,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральный эвфемизм. Исконное русское выражение."
@@ -875,7 +876,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, грубый",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Грубый дисфемизм. Исконное русское выражение."
@@ -889,7 +890,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, метафора ухода. Исконная русская природная метафора."
@@ -903,7 +904,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (ист.)",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к лаптям. Исконное русское."
@@ -917,7 +918,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "книжный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Исконная русская временная концепция."
@@ -931,7 +932,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральный эвфемизм. Исконная русская пространственная метафора."
@@ -945,7 +946,7 @@
     "semantic_label": "переход в локус (рай)",
     "stylistic_label": "книжный, высокий",
     "origin_label": "библеизм",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Религиозный эвфемизм. Библейское заимствование."
@@ -959,7 +960,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм. Исконная русская метафора."
@@ -973,7 +974,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "книжный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Философский эвфемизм. Исконная русская философская концепция."
@@ -987,7 +988,7 @@
     "semantic_label": "переход в локус (рай)",
     "stylistic_label": "книжный, высокий",
     "origin_label": "религиозное",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Религиозный эвфемизм, церковный стиль. Христианское заимствование."
@@ -1001,7 +1002,7 @@
     "semantic_label": "вечный покой",
     "stylistic_label": "книжный, высокий",
     "origin_label": "религиозное",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Религиозный эвфемизм. Христианское заимствование."
@@ -1015,7 +1016,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральный эвфемизм. Исконная русская метафора."
@@ -1029,7 +1030,7 @@
     "semantic_label": "переход в локус (рай)",
     "stylistic_label": "книжный",
     "origin_label": "мифологема (греч.)",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм, отсылка к греческой мифологии. Заимствование."
@@ -1043,7 +1044,7 @@
     "semantic_label": "переход в локус (загробный мир)",
     "stylistic_label": "книжный, шутливый",
     "origin_label": "мифологема (греч.)",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Шутливый эвфемизм, отсылка к Харону. Заимствование греческой мифологии."
@@ -1057,7 +1058,7 @@
     "semantic_label": "переход в локус (рай)",
     "stylistic_label": "книжный, поэтичный",
     "origin_label": "метафора",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Христианское заимствование."
@@ -1071,7 +1072,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (ист.)",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к генералу Духонину. Исконное русское историческое."
@@ -1085,7 +1086,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "разговорный, нейтральный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм. Исконная русская родовая метафора."
@@ -1099,7 +1100,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "разговорный, нейтральный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральный эвфемизм. Исконная русская пространственная метафора."
@@ -1113,7 +1114,7 @@
     "semantic_label": "переход в локус (могила)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм. Исконное русское сельскохозяйственная метафора."
@@ -1127,7 +1128,7 @@
     "semantic_label": "переход в локус (загробный мир)",
     "stylistic_label": "книжный",
     "origin_label": "мифологема (греч.)",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм, отсылка к реке Стикс. Заимствование греческой мифологии."
@@ -1141,7 +1142,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "книжный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Философский эвфемизм. Исконная русская философская концепция."
@@ -1155,7 +1156,7 @@
     "semantic_label": "переход в локус (могила)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (ист.)",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, игра слов: Могилёв от слова \"могила\". Исконное русское."
@@ -1169,7 +1170,7 @@
     "semantic_label": "переход в локус (могила)",
     "stylistic_label": "разговорный, поэтичный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм, намек на деревянные кресты или деревья на кладбище. Исконная русская природная метафора."
@@ -1183,7 +1184,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральный эвфемизм. Исконная русская метафора."
@@ -1197,7 +1198,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм. Исконная русская метафора."
@@ -1211,7 +1212,7 @@
     "semantic_label": "переход в локус (могила)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (ист.)",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, игра слов: Могилёв от слова \"могила\". Исконное русское."
@@ -1225,7 +1226,7 @@
     "semantic_label": "переход в локус (нирвана)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (религ.)",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к буддизму. Заимствование восточной концепции."
@@ -1239,7 +1240,7 @@
     "semantic_label": "переход в локус (могила)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, игра слов. Исконное русское просторечие."
@@ -1253,7 +1254,7 @@
     "semantic_label": "физиологический конец (насильственный)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (криминал.)",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, из уголовного жаргона. Исконное русское арго."
@@ -1267,7 +1268,7 @@
     "semantic_label": "переход в локус (могила)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм. Исконная русская природная метафора."
@@ -1281,7 +1282,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "книжный, поэтичный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Исконная русская поэтическая метафора."
@@ -1295,7 +1296,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральный эвфемизм. Исконная русская пространственная концепция."
@@ -1309,7 +1310,7 @@
     "semantic_label": "физиологический конец (насильственный)",
     "stylistic_label": "нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральное выражение для самоубийства. Исконное русское."
@@ -1323,7 +1324,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, иронично. Исконное русское ироничное выражение."
@@ -1337,7 +1338,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм. Исконное русское выражение."
@@ -1351,7 +1352,7 @@
     "semantic_label": "физиологический конец (взрыв, падение)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, о смерти от взрыва или падения. Исконное русское."
@@ -1365,7 +1366,7 @@
     "semantic_label": "вечный покой",
     "stylistic_label": "книжный, высокий",
     "origin_label": "религиозное",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Религиозный эвфемизм, устаревший. Церковнославянское заимствование."
@@ -1379,7 +1380,7 @@
     "semantic_label": "вечный покой",
     "stylistic_label": "книжный, поэтичный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Исконная русская метафора сна."
@@ -1393,7 +1394,7 @@
     "semantic_label": "приход к богу",
     "stylistic_label": "книжный, высокий",
     "origin_label": "религиозное",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Религиозный эвфемизм. Христианское заимствование."
@@ -1407,7 +1408,7 @@
     "semantic_label": "приход к богу",
     "stylistic_label": "книжный, высокий",
     "origin_label": "религиозное",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Религиозный эвфемизм. Христианское заимствование."
@@ -1421,7 +1422,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм, иронично. Исконное русское ироничное выражение."
@@ -1435,7 +1436,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленg",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм. Исконное русское просторечие."
@@ -1449,7 +1450,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, шутливый",
     "origin_label": "жаргон/сленг",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Шутливый дисфемизм. Заимствование западноевропейской метафоры."
@@ -1463,7 +1464,7 @@
     "semantic_label": "переход в локус (смерть)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к смерти как к скелету. Исконное русское."
@@ -1477,7 +1478,7 @@
     "semantic_label": "физиологический конец (казнь)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, о казни. Исконное русское историческое."
@@ -1491,7 +1492,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, грубый",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм. Исконное русское просторечие."
@@ -1505,7 +1506,7 @@
     "semantic_label": "физиологический конец (насильственный)",
     "stylistic_label": "разговорный, грубый",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Грубый дисфемизм, о сильном избиении до смерти. Исконное русское."
@@ -1519,7 +1520,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "книжный, поэтичный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Исконная русская юридическая метафора."
@@ -1533,7 +1534,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "поэтичный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичное описание позы покойника. Исконное русское."
@@ -1547,7 +1548,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, вариант \"протянуть ноги\". Исконное русское."
@@ -1561,7 +1562,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм. Исконное русское выражение."
@@ -1575,7 +1576,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "книжный, нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Устаревший эвфемизм. Исконное древнерусское выражение."
@@ -1589,7 +1590,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "книжный, поэтичный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Исконное русское поэтическое выражение."
@@ -1603,7 +1604,7 @@
     "semantic_label": "переход в локус (могила)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, иронично. Исконное русское огородная метафора."
@@ -1617,7 +1618,7 @@
     "semantic_label": "физиологический конец (насильственный)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, о самоубийстве через повешение. Исконное русское."
@@ -1631,7 +1632,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральная констатация. Исконное русское выражение."
@@ -1645,7 +1646,7 @@
     "semantic_label": "вечный покой",
     "stylistic_label": "нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм. Исконное русское выражение."
@@ -1659,7 +1660,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "поэтичный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Исконная русская природная метафора."
@@ -1673,7 +1674,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм. Исконная русская природная метафора."
@@ -1687,7 +1688,7 @@
     "semantic_label": "переход в локус (могила)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм. Исконное русское выражение."
@@ -1701,7 +1702,7 @@
     "semantic_label": "переход в локус (могила)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм. Исконное русское сельскохозяйственная метафора."
@@ -1715,7 +1716,7 @@
     "semantic_label": "физиологический конец (насильственный)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, возможно, от военной тематики. Исконное русское."
@@ -1729,7 +1730,7 @@
     "semantic_label": "физиологический конец (насильственный)",
     "stylistic_label": "разговорный, нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм для смерти от рискованного предприятия. Исконное русское."
@@ -1743,7 +1744,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, значение неочевидно. Исконное русское."
@@ -1757,7 +1758,7 @@
     "semantic_label": "физиологический конец",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм. Исконное русское выражение."
@@ -1771,7 +1772,7 @@
     "semantic_label": "переход в локус (Вальхалла)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (миф.)",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к скандинавской мифологии. Заимствование."
@@ -1785,7 +1786,7 @@
     "semantic_label": "переход в локус (рай)",
     "stylistic_label": "книжный",
     "origin_label": "мифологема (греч.)",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм, отсылка к греческой мифологии. Заимствование."
@@ -1799,7 +1800,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Нейтральный эвфемизм. Исконное русское выражение."
@@ -1813,7 +1814,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "разговорный, нейтральный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм. Исконная русская метафора."
@@ -1827,7 +1828,7 @@
     "semantic_label": "переход в локус",
     "stylistic_label": "разговорный, нейтральный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм. Исконная русская родовая метафора."
@@ -1841,7 +1842,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "нейтральный",
     "origin_label": "",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Эвфемизм, мягкий, вежливый. Исконное русское выражение."
@@ -1855,7 +1856,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "поэтичный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Исконная русская речная метафора."
@@ -1869,7 +1870,7 @@
     "semantic_label": "переход в локус (призрак)",
     "stylistic_label": "разговорный, жаргон",
     "origin_label": "жаргон/сленг (миф.)",
-    "or_label": "заимствованное",
+    "or_label": "Заимствованное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Дисфемизм, отсылка к легенде о Летучем Голландце. Заимствование."
@@ -1883,7 +1884,7 @@
     "semantic_label": "окончание пути",
     "stylistic_label": "разговорный, шутливый",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Шутливый эвфемизм. Исконное русское шутливое выражение."
@@ -1897,7 +1898,7 @@
     "semantic_label": "вечный покой",
     "stylistic_label": "книжный, поэтичный",
     "origin_label": "метафора",
-    "or_label": "исконное",
+    "or_label": "Исконное",
     "context_ru": "",
     "context_fi": "",
     "commentary": "Поэтичный эвфемизм. Исконная русская метафора сна."
